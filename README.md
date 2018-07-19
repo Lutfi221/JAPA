@@ -4,7 +4,7 @@ I felt annoyed having to open a another program or website if I have to do somet
 
 # Usage
 
-Its still simple (for now).
+Its still simple (for now). Simply open "main.py" to access the assistant.
 
 ## Converting Units
 
